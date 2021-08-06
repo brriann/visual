@@ -1,0 +1,8 @@
+https://github.com/3b1b/manim
+https://www.3blue1brown.com/
+
+https://github.com/ManimCommunity/manim/
+
+https://docs.manim.community/en/stable/installation/versions.html?highlight=OpenGL#which-version-to-use
+
+https://www.manim.community/

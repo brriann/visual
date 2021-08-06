@@ -1,0 +1,4 @@
+https://www.capitalone.com/tech/software-engineering/comparison-data-visualization-libraries-for-react/
+
+https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
+
